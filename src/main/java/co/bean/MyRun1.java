@@ -4,6 +4,7 @@ import co.aop.MyFilter;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Component;
 
+
 /**
  * 通过以下两个注解告诉IOC容器对这个类进行bean管理
  */
